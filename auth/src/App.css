@@ -1,0 +1,16 @@
+
+:root{
+  --bg-Secondary:#561435;
+}
+
+.login-bg {
+  background-color: var(--bg-Secondary);
+  height: 350px;
+  border-radius: 16px;
+}
+
+.register-bg {
+  background-color: var(--bg-Secondary);
+  height: 500px;
+  border-radius: 16px;
+}
